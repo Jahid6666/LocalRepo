@@ -1,0 +1,1 @@
+this is a sample file to check whether the default repo with git push command is working or not
